@@ -2,8 +2,8 @@
   "name": "sierotki",
   "main": "./lib/sierotki",
   "version": "1.0.0",
-  "description": " ",
-  "keywords": [],
+  "description": "package to remove single character from end of the line (typographic mistake in Polish language!). Adds "&nbsp;" After each single letter word (for example "a", "z", "i", etc).",
+  "keywords": [typography, sierotki, sieroty, Polish],
   "activationCommands": {
     "atom-workspace": "sierotki:move"
   },
