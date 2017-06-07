@@ -3,7 +3,7 @@
   "main": "./lib/sierotki",
   "version": "1.0.0",
   "description": "package to remove single character from end of the line (typographic mistake in Polish language!).",
-  "keywords": [typography, sierotki, sieroty, Polish],
+  "keywords": ["typography", "sierotki", "sieroty", "Polish"],
   "activationCommands": {
     "atom-workspace": "sierotki:move"
   },
