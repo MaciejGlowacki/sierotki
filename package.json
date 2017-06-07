@@ -1,0 +1,16 @@
+{
+  "name": "sierotki",
+  "main": "./lib/sierotki",
+  "version": "1.0.0",
+  "description": " ",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "sierotki:move"
+  },
+  "repository": "https://github.com/MaciejGlowacki/sierotki",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

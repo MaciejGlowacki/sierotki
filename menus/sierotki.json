@@ -1,0 +1,26 @@
+{
+	"context-menu": {
+		"atom-text-editor": [
+			{
+				"label": "sierotki",
+				"command": "sierotki:move"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "sierotki",
+					"submenu": [
+						{
+							"label": "move Chars",
+							"command": "sierotki:move"
+						}
+					]
+				}
+			]
+		}
+	]
+}
