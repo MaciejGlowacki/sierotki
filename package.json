@@ -10,7 +10,7 @@
     "Polish"
   ],
   "activationCommands": {
-    "atom-workspace": "sierotki:move"
+    "atom-workspace": "sierotki:insert"
   },
   "repository": "https://github.com/MaciejGlowacki/sierotki",
   "license": "MIT",
